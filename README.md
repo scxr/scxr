@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/scxr/scxr/master/oie_Fcn61cz14xQb.png)
+![head.png](https://raw.githubusercontent.com/scxr/scxr/master/top.png)
 
 Hey! I am **Charlie** thanks for stopping by!
 
