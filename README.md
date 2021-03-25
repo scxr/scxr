@@ -27,7 +27,6 @@ class charlie:
 <a href="https://github.com/scxr">
   <img src="https://img.shields.io/github/stars/scxr">
 </a>
-![Metrics](https://github.com/scxr/scxr/blob/master/github-metrics.svg)
 
   
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
