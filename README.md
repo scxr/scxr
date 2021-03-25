@@ -31,4 +31,4 @@ class charlie:
 
   
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/scxr/scxr/blob/master/github-metrics.svg)
