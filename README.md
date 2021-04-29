@@ -13,9 +13,9 @@ class charlie:
                        "osint", 
                        "competitive programming"]
     self.technologies = {
-            "backend": ["FastAPI", "Flask"],
+            "backend": ["FastAPI", "Flask", "Spring Boot"],
             "frontend": ["HTML", "CSS", "Javascript"],
-            "databases": ["SQLAlchemy", "mongo", "sqlite"],
+            "databases": ["SQLAlchemy", "mongo", "sqlite", "psql", "firebase"],
     }
 ```
 
