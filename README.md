@@ -15,7 +15,7 @@ class charlie:
                        "web3"]
     self.technologies = {
             "backend": ["FastAPI", "Flask", "Spring Boot", "expressjs"],
-            "frontend": ["HTML", "CSS", "Javascript", "Reactjs", "remix"],
+            "frontend": ["HTML", "CSS", "Javascript", "Reactjs", "remix", "nextjs"],
             "databases": ["SQLAlchemy", "mongo", "sqlite", "psql", "firebase"],
     }
 # 90% of my commits are in private repos :)
